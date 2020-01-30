@@ -1,0 +1,14 @@
+C:\Users\karas\source\repos\appcore\appcore\bin\Debug\netcoreapp2.1\appcore.deps.json
+C:\Users\karas\source\repos\appcore\appcore\bin\Debug\netcoreapp2.1\appcore.runtimeconfig.json
+C:\Users\karas\source\repos\appcore\appcore\bin\Debug\netcoreapp2.1\appcore.runtimeconfig.dev.json
+C:\Users\karas\source\repos\appcore\appcore\bin\Debug\netcoreapp2.1\appcore.dll
+C:\Users\karas\source\repos\appcore\appcore\bin\Debug\netcoreapp2.1\appcore.pdb
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.csprojAssemblyReference.cache
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.csproj.CoreCompileInputs.cache
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.RazorAssemblyInfo.cache
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.RazorAssemblyInfo.cs
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.AssemblyInfoInputs.cache
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.AssemblyInfo.cs
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.RazorTargetAssemblyInfo.cache
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.dll
+C:\Users\karas\source\repos\appcore\appcore\obj\Debug\netcoreapp2.1\appcore.pdb
